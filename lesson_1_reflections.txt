@@ -1,0 +1,10 @@
+windows
+cd					command to chance folder
+sintaxe 			cd downloads
+padrao				user directory
+
+FC					command to compare files
+sintaxe				FC file_1 file_2
+
+linux
+nao sei se vou usar

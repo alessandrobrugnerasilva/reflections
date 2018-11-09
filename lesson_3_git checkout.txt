@@ -1,0 +1,2 @@
+git checkout "commit"
+transform the files to the one of that commit

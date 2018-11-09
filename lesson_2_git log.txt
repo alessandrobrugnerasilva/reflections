@@ -1,0 +1,4 @@
+git log
+abre os commits(numeros grandes, que contem uma versao)
+
+diff "commit1" "commit2"
