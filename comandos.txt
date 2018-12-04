@@ -1,28 +1,37 @@
 ﻿diff
 	compara 2 arquivos
-	It takes two arguments - the two commit ids to compare. 
+		It takes two arguments - the two commit ids to compare. 
 
 clone
 	copia um repositorio, incluindo as coisas do git
-	it takes one argument - the url of the repository to copy. 
+		it takes one argument - the url of the repository to copy. 
 
 checkout
 	seleciona o commit para mudar
-	It takes one argument - the commit ID to restore. 
+		It takes one argument - the commit ID to restore. 
 
 log
 	mostra o log de commits
-		q     sai dos vários logs
+		q   
+			sai dos vários logs
 
 ls
 	mostra os arquivos do repository
-		-a inclusive os hidden
+		-a
+			inclusive os hidden
 
 status
 
 add
-	adiciona na staging area para criar um commit
-	colocar um nome de arquivo depois
+	-nome do arquivo
+		adiciona na staging area para criar um commit
 
+branch
+	mostra qual vc ta
+		-nome que voce quer
+			cria a branch no commit q vc ta
 
-
+remote
+	mostra qual vc ta
+		-nome -url
+			cria o remote e o lugar de enviar
